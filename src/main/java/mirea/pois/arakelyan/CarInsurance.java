@@ -41,7 +41,7 @@ public class CarInsurance {
                 * kOMultiplier
                 * hPMultiplier
                 * 1.0 * 1.5 * 1.0;
-    }
+    }а
 
     public Double getAgeExpMultiplier() {
         return ageExpMultiplier;

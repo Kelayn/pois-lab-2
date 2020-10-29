@@ -55,7 +55,7 @@ rule "calculate insurance"
 end
 
 function Double getHPMultiplier(Integer hp) {
-        if (hp <= 120) {
+        if (hp <= 150) {
             if (hp <= 120) {
                 if (hp <= 100) {
                     if (hp <= 70){
